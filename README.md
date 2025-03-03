@@ -1,0 +1,1 @@
+This is my personal portfolio website to showcase my skills, projects, and experience.It has the following sections: About, Skills, Projects, Contacts.
